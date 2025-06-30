@@ -4,7 +4,11 @@ import matplotlib.pyplot as plt
 
 import os
 
+#Define the file path
+
 file_path = 'sales_data.csv'
+
+#Check if the file exists
 
 if os.path.exists(file_path):
 
