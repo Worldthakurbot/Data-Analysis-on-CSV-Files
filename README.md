@@ -1,5 +1,7 @@
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import os
 
 file_path = 'sales_data.csv'
